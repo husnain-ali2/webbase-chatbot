@@ -1,0 +1,8 @@
+langchain
+openai
+langchain-community
+langchain-openai
+gradio
+google-generaltiveai
+langchain-groq
+
